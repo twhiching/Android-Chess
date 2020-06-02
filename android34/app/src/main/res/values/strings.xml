@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">android34</string>
+    <string name="play_chess_button">Play Chess!</string>
+    <string name="draw">Draw</string>
+    <string name="Undo" />
+    <string name="AI" />
+    <string name="white_player">Current player: white</string>
+    <string name="alert_dialog_title">Pick a piece to promote pawn to</string>
+    <string name="Accept">Accept</string>
+    <string name="black_player">Current player: black</string>
+    <string name="white_wins">White player wins!</string>
+    <string name="black_wins">Black player wins!</string>
+    <string name="forward">Forward</string>
+    <string name="back">Back</string>
+    <string-array name="chess_pieces">
+        <item>Queen</item>
+        <item>Bishop</item>
+        <item>Knight</item>
+        <item>Rook</item>
+    </string-array>
+</resources>
